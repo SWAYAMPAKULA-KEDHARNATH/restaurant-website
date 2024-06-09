@@ -1,4 +1,4 @@
-# Restaurant Landing Page
+# Restaurant Landing Page with outlooking interface
 
 - Used bootstrap tools & own styles.
 - Implemented responsive template.
